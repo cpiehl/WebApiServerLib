@@ -23,7 +23,7 @@ namespace WebApiServerLib
 		{
 			try
 			{
-				config = new HttpSelfHostConfiguration(this.hostUri);
+				config = new HttpsSelfHostConfiguration(this.hostUri);
 				config.Routes.MapHttpRoute("API DEFAULT", "{controller}/{action}",
 					new { id = RouteParameter.Optional });
 

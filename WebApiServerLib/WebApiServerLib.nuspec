@@ -6,8 +6,8 @@
 		<title>$title$</title>
 		<authors>$author$</authors>
 		<owners>$author$</owners>
-		<licenseUrl>http://chuzuki.us.to</licenseUrl>
-		<projectUrl>http://chuzuki.us.to</projectUrl>
+		<licenseUrl>https://github.com/cpiehl/WebApiServerLib/blob/master/LICENSE</licenseUrl>
+		<projectUrl>https://github.com/cpiehl/WebApiServerLib</projectUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>$description$</description>
 		<releaseNotes>Initial Release</releaseNotes>
