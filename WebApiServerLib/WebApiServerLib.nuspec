@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>$id$</id>
+		<version>$version$</version>
+		<title>$title$</title>
+		<authors>$author$</authors>
+		<owners>$author$</owners>
+		<licenseUrl>http://chuzuki.us.to</licenseUrl>
+		<projectUrl>http://chuzuki.us.to</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>$description$</description>
+		<releaseNotes>Initial Release</releaseNotes>
+		<copyright>Copyright 2018</copyright>
+		<tags>WebAPI Server</tags>
+	</metadata>
+	<files>
+		<file src="lib\**" target="lib\net452\" />
+	</files>
+</package>
